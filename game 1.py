@@ -1,0 +1,5 @@
+print("We will be writing a story, you can name the boy and girl in this story.")
+MaleCharacter_Name = input("Enter the name of the Boy : ")
+FemaleCharacter_Name = input("Enter the name of the Girl: ")
+print("Once upon a time "+MaleCharacter_Name + " was walking in the street. Suddenly he saw "+ FemaleCharacter_Name+". They talked for several hours and he fell in love with her. They married each other and lived happily ever after.")
+print("End of the story. Did you like it?")
